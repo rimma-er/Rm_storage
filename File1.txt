@@ -1,5 +1,5 @@
 User rimma-er
-test file
+test file конфликт
 file changes time 11.28.
 123
 add line
