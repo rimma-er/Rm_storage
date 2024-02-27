@@ -1,1 +1,2 @@
 new line текст для нового файла
+brahches:test conflict between rows *15/29*
