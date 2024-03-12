@@ -16,3 +16,4 @@ commit test 26.02
 test new line 12.03
 тест тест тест 28
 
+test file конфликт 1203
