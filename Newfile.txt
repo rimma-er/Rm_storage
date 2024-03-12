@@ -1,3 +1,4 @@
+new test conflit local 1203
 new line текст для нового файла
 
 brahches:test conflict between rows *15/29*
