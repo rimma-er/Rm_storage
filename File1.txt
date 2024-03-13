@@ -19,3 +19,4 @@ test file конфликт 1203
 
 new line for GUI 13.03 t 11.02
 test changes
+new line for GUI2 13.03 t 12.00
