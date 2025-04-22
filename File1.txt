@@ -4,20 +4,6 @@
 ;lkjh
 User rimma-er
 
-test file конфликт
-test file тест на конфликт разночтения 26.02
-
-file changes time 11.28.
-123
-add line
-commit test 26.02
-текст для новой ветки 11.45
-
-test new line 12.03
-тест тест тест 28
-
-test file конфликт 1203
-
-new line for GUI 13.03 t 11.02
-test changes
-new line for GUI2 13.03 t 12.00
+22.04.2025
+qwerty123 
+test 
