@@ -10,6 +10,12 @@ test 23.04
 ласточки
 test 22.04.2025 conflictstring
 
+<<<<<<< HEAD
 test 22.04.2025 conflictstr
 
 Передо мной явилась ты...
+=======
+test test
+Я помню чудное мгновенье,
+
+>>>>>>> 0586f5dbc5869cc7a3f0f17deb102f111f78af0e
