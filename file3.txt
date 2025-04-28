@@ -10,3 +10,4 @@ martin.
 Насекомые:
 komar
 babochka
+strekoza
