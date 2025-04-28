@@ -3,4 +3,6 @@
 ворорбей,
 канарейка,
 пингвин.
-colibri 
+colibri,
+duck,
+martin.
