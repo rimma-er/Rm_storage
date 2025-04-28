@@ -8,4 +8,5 @@ duck,
 martin.
 
 Насекомые:
+komar
 
