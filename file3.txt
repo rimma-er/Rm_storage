@@ -9,9 +9,6 @@ martin.
 
 Насекомые:
 komar
-<<<<<<< HEAD
-=======
 муха 
->>>>>>> e2391f3 (muha)
 babochka
 strekoza
