@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-чай, кофе, молоко
-sweets cake
-=======
 conflict2
->>>>>>> main
+
