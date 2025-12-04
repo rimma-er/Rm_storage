@@ -1,3 +1,8 @@
 qwerty
+<<<<<<< HEAD
 12345678
 a b c d f
+=======
+12345
+asdfg
+>>>>>>> main
